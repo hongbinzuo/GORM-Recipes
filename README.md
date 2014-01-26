@@ -10,3 +10,5 @@ for populating the instance of the database we'll use for the recipes.
 
 This project does not contain any controllers, view, etc...  It is meant to be run from
 the Grails console to execute queries. See the documentation page above for details.
+
+This branch is used for Grails 2.3.5. And it also includes the script source code from the tutorial.
